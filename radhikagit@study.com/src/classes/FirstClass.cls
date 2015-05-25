@@ -6,7 +6,7 @@ public with sharing class FirstClass {
 	}
 	
 	// First method of class of first branch
-	public void firstmethod() {
+	public void thirdMethod() {
 		System.debug('In first method');
 	}
 }
