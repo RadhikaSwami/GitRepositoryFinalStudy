@@ -1,6 +1,6 @@
 public with sharing class FirstClass {
 	
-	// Constructor of class change for third branch
+	// Constructor of class for third branch
 	FirstClass() {
 		System.debug('In Constructor');
 	}
