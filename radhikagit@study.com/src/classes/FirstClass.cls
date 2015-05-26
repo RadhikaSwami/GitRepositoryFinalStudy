@@ -5,7 +5,7 @@ public with sharing class FirstClass {
 		System.debug('In Constructor');
 	}
 	
-	// First method of class of first branch
+	// Third method of class of first branch
 	public void thirdMethod() {
 		System.debug('In first method');
 	}
