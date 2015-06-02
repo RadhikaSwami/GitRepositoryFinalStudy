@@ -9,4 +9,9 @@ public with sharing class FirstClass {
 	public void firstmethod() {
 		System.debug('In first method changed commit one');
 	}
+	
+	// Secong method of class
+	public void secondmethod() {
+		System.debug('In second method changed commit two');
+	}
 }
