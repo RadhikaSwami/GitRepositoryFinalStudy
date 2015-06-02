@@ -7,6 +7,6 @@ public with sharing class FirstClass {
 	
 	// First method of class
 	public void firstmethod() {
-		System.debug('In first method changed');
+		System.debug('In first method changed commit two');
 	}
 }
